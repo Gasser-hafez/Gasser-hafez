@@ -24,7 +24,6 @@
 |---|---|---|
 | 🍿 **[Rilio](https://github.com/Gasser-hafez/Rilio)** | A Windows app + Chrome/Edge extension that keeps every movie and show you want to watch in one place. Watch in-app, auto-track episodes, watch together with friends, get recommendations. [⬇️ Download](https://github.com/Gasser-hafez/Rilio/releases/latest) | JavaScript · Electron · Python |
 | 🤖 **[GassoorAgent](https://github.com/Gasser-hafez/GassoorAgent)** | A desktop AI agent built on [goose](https://github.com/aaif-goose/goose) with a fully redesigned UI, light/dark themes, text scaling and a usage dashboard. [⬇️ Download](https://github.com/Gasser-hafez/GassoorAgent/releases) | Rust · TypeScript · Electron |
-| 📝 **[Notivity](https://github.com/Gasser-hafez/Notivity)** | A cross-platform notes app. | Flutter · Dart |
 
 ### 🛠️ Tech I use
 
