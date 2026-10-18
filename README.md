@@ -22,6 +22,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🎙️ **[Fawa2ly · فوقلي](https://github.com/Gasser-hafez/fawa2ly)** | A live interview assistant for Windows. It listens to the call, detects each question in real time, and streams 3–5 short lines to say, grounded in your own CV, in English or Egyptian Arabic. Works with 11 cloud LLM providers or fully offline (local Whisper + Ollama), 60+ role presets, after-call review and signed auto-updates. | Python · Rust · Tauri · JavaScript |
 | 🍿 **[Rilio](https://github.com/Gasser-hafez/Rilio)** | A Windows app + Chrome/Edge extension that keeps every movie and show you want to watch in one place. Watch in-app, auto-track episodes, watch together with friends, get recommendations. [⬇️ Download](https://github.com/Gasser-hafez/Rilio/releases/latest) | JavaScript · Electron · Python |
 | 🤖 **[GassoorAgent](https://github.com/Gasser-hafez/GassoorAgent)** | A desktop AI agent built on [goose](https://github.com/aaif-goose/goose) with a fully redesigned UI, light/dark themes, text scaling and a usage dashboard. [⬇️ Download](https://github.com/Gasser-hafez/GassoorAgent/releases) | Rust · TypeScript · Electron |
 
@@ -34,6 +35,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
